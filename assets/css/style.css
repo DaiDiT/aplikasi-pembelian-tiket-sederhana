@@ -1,0 +1,15 @@
+.body {
+    background-color: #00BFFF;
+    padding: 20px;
+}
+form {
+    background-color: #FFFFFF;
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+h2.form-title {
+    text-align: center;
+}
